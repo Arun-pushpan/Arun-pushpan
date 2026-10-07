@@ -82,7 +82,7 @@ Developed scalable Flutter desktop and mobile solutions for stock management and
 
 - 💼 LinkedIn: www.linkedin.com/in/arun-pushpan
 - 📧 Email: arunpushpan2018@gmail.com
-- 🌍 Portfolio: https://arun-pushpan.github.io/arun-pushpan-portfolio/
+- 🌍 Portfolio: https://arun-pushpan.github.io/
 
 ---
 
